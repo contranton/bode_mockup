@@ -1,5 +1,5 @@
 # bode_mockup
-Small mock-up of graphical functions for EQ project
+Small mock-up of graphical functions for EQ project using an off-the-shelf TFT display shield and an MSP430F5529 microcontroller.
 
 ## Explanation of our screen display idea
 
